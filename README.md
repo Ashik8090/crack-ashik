@@ -6,3 +6,4 @@
 # apt install git
 # git clone https://github.com/Ashik8090/crack-ashik.git
 # cd crack-ashik.py
+ enjoy✌️
