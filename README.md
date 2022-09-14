@@ -5,5 +5,6 @@
 # pip install futures
 # apt install git
 # git clone https://github.com/Ashik8090/crack-ashik.git
-# cd crack-ashik.py
+# cd crack-ashik
+# python2 crack-ashik.py
  enjoy✌️
